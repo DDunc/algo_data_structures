@@ -1,5 +1,4 @@
-var algos = require('../algos.js');
-var mocha = require('mocha');  //runs the code, and then returns its own exports object
+var algos = require('../algos.js'); //runs the code, and then returns its own exports object
 var expect = require('chai').expect;
 
 var testArr, testArr2;
